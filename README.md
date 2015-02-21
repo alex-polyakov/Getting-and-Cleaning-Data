@@ -23,6 +23,10 @@ There are following files:
      
 4. **tidy_data_set.txt** - a tidy data set
 
+## Preliminary steps
+
+ Make sure you have "data.table" package installed.
+
 ## Instructions
 
 
